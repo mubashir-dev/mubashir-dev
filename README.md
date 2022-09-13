@@ -3,7 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Developer;Node.Js|Nest|PHP|Laravel+Web+Developer;Always+In+Learning+Mode&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am currently working as Jr Full Stack Web Developer. I used PHP,Laravel,Node,Express,Nest to developed Web Applications and scalable backends. I am continuously improving my skills and applying top standards in development..</h4>
+<h4 align="center">Seasoned Software Artisan, forward‑looking Software Engineer with experience of 2+ years in creating code that enhances business productivity.
+Highly experienced in all aspects of software development life cycle and transforming from concept to something actual product. I mostly worked
+at the backend using a modern technology stack to develop a robust product. I have eager to learn and excel in technologies.</h4>
 <br>
 
 ## 🛠️ My Skills
