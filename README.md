@@ -7,7 +7,7 @@
 
 ```typescript
 const mubashir = {
-    fullName: "Sardar Mubashir Ali",
+    fullName: "Mubashir A.",
     pronouns: "he" | "him",
     code: [Typescript, Javascript,PHP,Python],
     frameworks: [ NestJs,ExpressJs,Jest,Laravel],
